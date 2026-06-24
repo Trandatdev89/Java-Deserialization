@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head><title>Products</title></head>
+<body>
+<h2>Welcome, <span th:text="${username}"></span></h2>
+<a href="/logout">Logout</a>
+
+<h3>Add Product</h3>
+<form th:action="@{/products/add}" method="post">
+  <input type="text" name="title" placeholder="Product Title" required/>
+  <input type="text" name="thumbnail" placeholder="Thumbnail URL[](https://...)" required/>
+  <button type="submit">Add</button>
+</form>
+
+<h3>My Products</h3>
+<ul>
+  <li th:each="product : ${products}">
+    <img th:src="${product.thumbnail}" width="100"/>
+    <span th:text="${product.title}"></span>
+  </li>
+</ul>
+</body>
+</html>

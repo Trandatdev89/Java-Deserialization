@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30ffb753-7139-49c2-b038-2341fb250bf5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3624381642651846" />
+      <entry key="MS500" value="2.7849452841643894" />
+      <entry key="S2" value="4.688348325573867" />
+      <entry key="S5" value="5.408616310556544" />
+      <entry key="S10" value="5.6916731414000665" />
+      <entry key="S30" value="5.894257703351461" />
+      <entry key="S60" value="5.947038982922391" />
+      <entry key="M2" value="5.997479491998974" />
+      <entry key="M5" value="6.370970822620236" />
+      <entry key="M10" value="7.202335290738335" />
+      <entry key="M15" value="8.043674822773195" />
+      <entry key="M30" value="11.466974362717291" />
+      <entry key="H1" value="21.230049046523717" />
+      <entry key="H2" value="36.45470203156699" />
+      <entry key="H4" value="50.71458676053483" />
+      <entry key="D1" value="68.55408243194839" />
+      <entry key="W1" value="72.34410107944224" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.1774444578359926E-116" />
+      <entry key="S5" value="4.2498751510800844E-47" />
+      <entry key="S10" value="6.519106649749102E-24" />
+      <entry key="S30" value="1.8681396323701976E-8" />
+      <entry key="S60" value="1.3758623813119923E-4" />
+      <entry key="M2" value="0.01299380761581753" />
+      <entry key="M5" value="0.2963088366174188" />
+      <entry key="M10" value="1.1113720432867318" />
+      <entry key="M15" value="1.8909254480632336" />
+      <entry key="M30" value="4.190847670875132" />
+      <entry key="H1" value="10.264874509286061" />
+      <entry key="H2" value="20.73912744136319" />
+      <entry key="H4" value="31.347719230456693" />
+      <entry key="D1" value="45.39106745524187" />
+      <entry key="W1" value="48.465108597567465" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.2978564577711147" />
+      <entry key="MS500" value="2.756930676216283" />
+      <entry key="S2" value="4.676099367605011" />
+      <entry key="S5" value="5.4029079490730485" />
+      <entry key="S10" value="5.688659189889904" />
+      <entry key="S30" value="5.893214865924714" />
+      <entry key="S60" value="5.946648575309652" />
+      <entry key="M2" value="6.01012811313173" />
+      <entry key="M5" value="6.666206737611295" />
+      <entry key="M10" value="8.311400687240289" />
+      <entry key="M15" value="9.9316514245029" />
+      <entry key="M30" value="15.654061708353812" />
+      <entry key="H1" value="31.490399130052268" />
+      <entry key="H2" value="57.18945964369171" />
+      <entry key="H4" value="82.05908020589922" />
+      <entry key="D1" value="113.94438489452494" />
+      <entry key="W1" value="120.80909330787118" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FMKtJOhKccgEZZ0pSrwgVw5eIE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PayloadGenerator.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.JavaDeserializationApplication.executor": "Debug",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "last_opened_file_path": "C:/Users/admin/Desktop/Java-Deserialization",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\Java-Deserialization\src\main\java\com\project01\javadeserialization\dto" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\Java-Deserialization" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PayloadGenerator">
+    <configuration name="PayloadGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project01.javadeserialization.dto.PayloadGenerator" />
+      <module name="Java-Deserialization" />
+      <option name="VM_PARAMETERS" value="--add-opens java.base/sun.reflect.annotation=ALL-UNNAMED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project01.javadeserialization.dto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaDeserializationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Java-Deserialization" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.project01.javadeserialization.JavaDeserializationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PayloadGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30ffb753-7139-49c2-b038-2341fb250bf5" name="Changes" comment="" />
+      <created>1781879713821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781879713821</updated>
+      <workItem from="1781879714957" duration="3518000" />
+      <workItem from="1781921317585" duration="9650000" />
+      <workItem from="1781943368418" duration="4764000" />
+      <workItem from="1781948224823" duration="9000" />
+      <workItem from="1782286794093" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

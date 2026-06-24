@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: Java-Deserialization
+  datasource:
+    url: jdbc:mysql://localhost:3306/ecom_lab?createDatabaseIfNotExist=true&useSSL=false&serverTimezone=UTC
+    username: root
+    password: longga@12
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  thymeleaf:
+    cache: false
+
+server:
+  port: 8080
