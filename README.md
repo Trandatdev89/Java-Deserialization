@@ -1,10 +1,7 @@
 # Java Deserialization Vulnerability — Lab Demo
-
-> ⚠️ **Cảnh báo:** Dự án này được xây dựng **hoàn toàn cho mục đích học tập và nghiên cứu bảo mật**. Toàn bộ lỗ hổng được cố ý tạo ra trong môi trường lab kiểm soát. **Không triển khai lên môi trường production.**
-
-Dự án minh hoạ lỗ hổng **Insecure Deserialization** — một trong OWASP Top 10 — thông qua cơ chế "Remember Me" của Spring Security bị cài đặt sai.
-
 ---
+
+# [Xem Report-Java-Deserialization.pdf](Report-Java-Deserialization.pdf)
 
 ## Kiến trúc dự án
 
